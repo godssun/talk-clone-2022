@@ -1,3 +1,6 @@
 :root {
   --yellow: #fae100;
+  --spcae: 25px;
+  --border: 1px solid rgba(0, 0, 0, 0.2);
+  --gray: #5e5e5e7e;
 }
